@@ -19,7 +19,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "pretty": "prettier --write \"./**/*.{js,json}\""
+    "pretty": "prettier --write \"./**/*.{js,json}\"",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",

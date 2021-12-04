@@ -12,7 +12,7 @@ const TEST_ENV = process.env;
 const DEFAULT_BODY_SIZE_LAMBDA = "6mb";
 
 let config = {
-  url: "https://TwilioServerlessMock.adamchasetaylor.repl.co",
+  url: "http://localhost",
   baseDir: TEST_DIR,
   env: TEST_ENV,
   logs: false,
